@@ -7,6 +7,6 @@ description: svg相关知识
 ---
 
 ### 参考资料
-http://www.zhangxinxu.com/wordpress/category/graphic/svg-graphic/
+[大神的帖子](http://www.zhangxinxu.com/wordpress/category/graphic/svg-graphic/)
 
-http://www.webhek.com/post/how-svg-line-animation-works.html
+[一个SVG线条动画的实现](http://www.webhek.com/post/how-svg-line-animation-works.html)
