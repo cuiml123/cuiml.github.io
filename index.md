@@ -14,3 +14,4 @@ layout: post
       <path id="path" d="M0 200 L200,200 L210,180 L220,220 L230,200  L240,200 L270,50 L300,250 L310,190 L320,210 L330,200 L600,200" stroke="url(#linearGradient-1)" fill="none" style="stroke-width: 2px; animation: dashanimation 1s linear infinite;stroke-dashoffset: 1500px; stroke-dasharray: 1500;"> </path>
   </svg>
 </div>
+<span style="display:inline-block; text-align:center; width:100%; color:#444444">记录问题，知识总结。尽量当博客写，假装会有人看</span>
